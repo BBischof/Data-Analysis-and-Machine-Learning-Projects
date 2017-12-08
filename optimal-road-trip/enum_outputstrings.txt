@@ -1,0 +1,108 @@
+1, https://www.strava.com/segments/1504789
+2, https://www.strava.com/segments/638944
+3, https://www.strava.com/segments/3237
+4, https://www.strava.com/segments/6998193
+5, https://www.strava.com/segments/625021
+6, https://www.strava.com/segments/4624623
+7, https://www.strava.com/segments/1334431
+8, https://www.strava.com/segments/885309
+9, https://www.strava.com/segments/626925
+10, https://www.strava.com/segments/2917983
+11, https://www.strava.com/segments/642991
+12, https://www.strava.com/segments/660358
+13, https://www.strava.com/segments/2318996
+14, https://www.strava.com/segments/2731723
+https://www.strava.com/segments/8951652
+15, https://www.strava.com/segments/8962753
+16, https://www.strava.com/segments/724632
+17, https://www.strava.com/segments/623710
+18, https://www.strava.com/segments/3687
+19, 20, https://www.strava.com/segments/646257
+21, https://www.strava.com/segments/9910448
+22, https://www.strava.com/segments/734755
+23, https://www.strava.com/segments/671261
+24, https://www.strava.com/segments/1798960
+25, https://www.strava.com/segments/648116
+26, https://www.strava.com/segments/9985856
+27, https://www.strava.com/segments/4783543
+28, https://www.strava.com/segments/4664092
+29, https://www.strava.com/segments/624817
+30, https://www.strava.com/segments/9647922
+31, https://www.strava.com/segments/636528
+32, https://www.strava.com/segments/623599
+33, https://www.strava.com/segments/665136
+34, 35, https://www.strava.com/segments/273807
+36, https://www.strava.com/segments/9657320
+37, https://www.strava.com/segments/8947396
+38, https://www.strava.com/segments/8950048
+39, https://www.strava.com/segments/621273
+40, https://www.strava.com/segments/9910457
+41, https://www.strava.com/segments/667415
+42, 43, https://www.strava.com/segments/4433534
+https://www.strava.com/segments/4945390
+44, https://www.strava.com/segments/9664095
+45, https://www.strava.com/segments/787836
+46, https://www.strava.com/segments/4424507
+47, https://www.strava.com/segments/754793
+48, https://www.strava.com/segments/2402383
+49, https://www.strava.com/segments/694999
+50, https://www.strava.com/segments/8960810
+51, https://www.strava.com/segments/1653954
+52, https://www.strava.com/segments/623203
+53, https://www.strava.com/segments/4092402
+54, https://www.strava.com/segments/1211716
+55, https://www.strava.com/segments/2783
+https://www.strava.com/segments/475241
+56, https://www.strava.com/segments/8962723
+57, https://www.strava.com/segments/229501
+57a, https://www.strava.com/segments/7961219
+58, https://www.strava.com/segments/8964271
+59, https://www.strava.com/segments/620195
+60, https://www.strava.com/segments/620210
+61, https://www.strava.com/segments/8967293
+62, https://www.strava.com/segments/9702391
+63a, https://www.strava.com/segments/7431352
+https://www.strava.com/segments/899186
+63, https://www.strava.com/segments/675114
+64, http://www.strava.com/segments/694534
+65, https://www.strava.com/segments/1466117
+66, https://www.strava.com/segments/935285
+67, https://www.strava.com/segments/4350313
+67a, https://www.strava.com/segments/10022984
+68, https://www.strava.com/segments/9760623
+69, https://www.strava.com/segments/629572
+70, 71, https://www.strava.com/segments/3650413
+71a, https://www.strava.com/segments/5585297
+71, https://www.strava.com/segments/1190714
+73, https://www.strava.com/segments/1053678
+74, https://www.strava.com/segments/2367960
+74a, https://www.strava.com/segments/1698011
+75, https://www.strava.com/segments/9776483
+76, https://www.strava.com/segments/1515689
+77, https://www.strava.com/segments/9834456
+78, https://www.strava.com/segments/4235370
+79, https://www.strava.com/segments/678275
+80, https://www.strava.com/segments/9452458
+81, https://www.strava.com/segments/631922
+82, https://www.strava.com/segments/3806021
+83, https://www.strava.com/segments/631922
+84, https://www.strava.com/segments/8964831
+85, https://www.strava.com/segments/2352061
+https://www.strava.com/segments/2326597
+86, https://www.strava.com/segments/747320
+https://www.strava.com/segments/609666
+87, https://www.strava.com/segments/130445
+88, https://www.strava.com/segments/3510610
+89, https://www.strava.com/segments/641588
+https://www.strava.com/segments/10862798
+90, https://www.strava.com/segments/256983
+91, https://www.strava.com/segments/631868
+92, https://www.strava.com/segments/617452
+93, https://www.strava.com/segments/1400770
+94, https://www.strava.com/segments/8942938
+94a, https://www.strava.com/segments/648574
+95, https://www.strava.com/segments/10008717
+95, 97, https://www.strava.com/segments/10008833
+98, https://www.strava.com/segments/4386861
+99, 100, https://www.strava.com/segments/4894953
+100, https://www.strava.com/segments/10041535
